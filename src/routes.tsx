@@ -13,6 +13,7 @@ const AppRoutes = () => {
   return (
     <Routes>
       <Route path="/" element={<HomePage />} />
+      <Route path="/school_management_client" element={<HomePage />} />
       <Route path="/classes" element={<ClassesPage />} />
       <Route path="/classes/:id" element={<ClassDetail />} />
       <Route path="/teachers" element={<TeachersPage />} />

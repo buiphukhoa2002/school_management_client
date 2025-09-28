@@ -6,8 +6,8 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-4 py-6 flex flex-col sm:flex-row justify-between items-center">
         {/* Left */}
         <p className="text-sm text-gray-600">
-          © {new Date().getFullYear()} Nguyen Du High School. All rights
-          reserved.
+          © {new Date().getFullYear()} Nguyen Van To Secondary School. All
+          rights reserved.
         </p>
 
         {/* Right */}

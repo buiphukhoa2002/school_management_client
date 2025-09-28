@@ -15,4 +15,5 @@ export default defineConfig({
     outDir: "build",
     emptyOutDir: true,
   },
+  base: "https://buiphukhoa2002.github.io/school_management_client/",
 });
